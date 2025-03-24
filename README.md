@@ -63,8 +63,6 @@ This site would be well suited to be built in React or another framework. I chos
 
 - Website - [Ashir Valjee](https://ashir-valjee-portfolio.vercel.app/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
 Kevin Powells excellent CSS resources
